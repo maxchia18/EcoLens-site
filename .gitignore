@@ -1,0 +1,62 @@
+# Node modules directory
+node_modules/
+
+# Build output directory
+dist/
+build/
+
+# Tailwind CSS config file
+tailwind.config.js
+
+# Environment variables file
+.env
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# IDE and Editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore any coverage reports
+coverage/
+
+# Ignore build artifacts
+*.out
+*.exe
+*.dll
+*.pdb
+*.app
+*.dmg
+*.iso
+
+# Ignore dependency directories
+node_modules/
+jspm_packages/
+
+# Ignore distribution directories
+dist/
+build/
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore IntelliJ project files
+.idea/
+*.iml
+out/
+
+# Ignore VSCode workspace settings
+.vscode/
